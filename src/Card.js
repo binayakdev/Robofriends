@@ -11,6 +11,7 @@ const Card = ({id, name, email}) => {
                 <p>{email}</p>
             </div>
         </div>
+    
     );
 }
 
